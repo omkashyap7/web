@@ -1,0 +1,96 @@
+body{
+  background-color: red;
+  padding-top: 40px;
+}
+.container .jumbotron{
+  padding-right: 15px;
+  padding-left: 15px;
+  border-radius: 6px;
+  background: Chartreuse;
+  color: white;
+}
+
+.om {
+  background-color:;
+
+}
+
+.navbar {
+  color: red;
+  background-color: red;
+}
+
+#center{
+  text-align: center;
+  padding-top: 20px;
+}
+
+#tc{
+  color: blue;
+  font-size: 80px;
+  text-align: center;
+}
+
+#btn{
+  color: blue;
+  margin: auto;
+
+
+}
+
+#h3{
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
+
+#hr{
+  border: 1px solid #35EE07;
+}
+#contact{
+  color: black;
+}
+
+#hr1{
+  border: 1px solid #35EE07;
+}
+
+#thank{
+  text-align: center;
+  color: purple;
+  text-decoration: underline;
+}
+
+#para{
+  color: black;
+  font-size: 20px;
+  position:absolute;
+  right: 50px;
+  padding: 10%;
+  background-color: pink;
+}
+#center{
+  align-items: center;
+}
+
+#href{
+  color: blue;
+  text-decoration: underline;
+}
+.img{
+  margin-right: 20px;
+  border-radius: 100%;
+}
+
+#jumbo{
+
+  background: SpringGreen;
+
+}
+#td{
+  color: black;
+  background-color: pink;
+}
+#my{
+  color: black;
+}
